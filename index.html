@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Korean Flashcards</title>
+  <style>
+    body { font-family: sans-serif; margin: 0; background: #f8f8f8; text-align: center; }
+    h1 { margin: 20px 0; color: #333; }
+    .tabs {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      margin: 20px;
+    }
+    .tab {
+      background-color: hsl(calc(360 * var(--i) / 14), 70%, 75%);
+      padding: 15px 20px;
+      border-radius: 10px;
+      font-size: 20px;
+      font-weight: bold;
+      color: white;
+      cursor: pointer;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Learn Korean by Alphabet</h1>
+  <div class="tabs">
+    <a class="tab" style="--i:0" href="flashcard.html?letter=ㄱ">ㄱ</a>
+    <a class="tab" style="--i:1" href="flashcard.html?letter=ㄴ">ㄴ</a>
+    <a class="tab" style="--i:2" href="flashcard.html?letter=ㄷ">ㄷ</a>
+    <a class="tab" style="--i:3" href="flashcard.html?letter=ㄹ">ㄹ</a>
+    <a class="tab" style="--i:4" href="flashcard.html?letter=ㅁ">ㅁ</a>
+    <a class="tab" style="--i:5" href="flashcard.html?letter=ㅂ">ㅂ</a>
+    <a class="tab" style="--i:6" href="flashcard.html?letter=ㅅ">ㅅ</a>
+    <a class="tab" style="--i:7" href="flashcard.html?letter=ㅇ">ㅇ</a>
+    <a class="tab" style="--i:8" href="flashcard.html?letter=ㅈ">ㅈ</a>
+    <a class="tab" style="--i:9" href="flashcard.html?letter=ㅊ">ㅊ</a>
+    <a class="tab" style="--i:10" href="flashcard.html?letter=ㅋ">ㅋ</a>
+    <a class="tab" style="--i:11" href="flashcard.html?letter=ㅌ">ㅌ</a>
+    <a class="tab" style="--i:12" href="flashcard.html?letter=ㅍ">ㅍ</a>
+    <a class="tab" style="--i:13" href="flashcard.html?letter=ㅎ">ㅎ</a>
+  </div>
+</body>
+</html>
