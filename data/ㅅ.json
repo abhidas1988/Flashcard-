@@ -1,0 +1,766 @@
+[
+  {
+    "korean": "사",
+    "english": "4"
+  },
+  {
+    "korean": "사거리",
+    "english": "intersection, four corners"
+  },
+  {
+    "korean": "사계절",
+    "english": "four seasons"
+  },
+  {
+    "korean": "사고",
+    "english": "accident"
+  },
+  {
+    "korean": "사과",
+    "english": "apple"
+  },
+  {
+    "korean": "사다",
+    "english": "buy"
+  },
+  {
+    "korean": "사람",
+    "english": "person, man"
+  },
+  {
+    "korean": "사랑",
+    "english": "love"
+  },
+  {
+    "korean": "사랑하다",
+    "english": "love"
+  },
+  {
+    "korean": "사례",
+    "english": "case, example"
+  },
+  {
+    "korean": "사무실",
+    "english": "office"
+  },
+  {
+    "korean": "사물",
+    "english": "object, thing"
+  },
+  {
+    "korean": "사십",
+    "english": "40"
+  },
+  {
+    "korean": "사업가",
+    "english": "entrepreneur, businessman"
+  },
+  {
+    "korean": "사용하다",
+    "english": "use"
+  },
+  {
+    "korean": "사원",
+    "english": "temple, employee"
+  },
+  {
+    "korean": "사월",
+    "english": "April"
+  },
+  {
+    "korean": "사이",
+    "english": "between, while"
+  },
+  {
+    "korean": "사이다",
+    "english": "cider"
+  },
+  {
+    "korean": "사이즈",
+    "english": "size"
+  },
+  {
+    "korean": "사인하다",
+    "english": "sign"
+  },
+  {
+    "korean": "사장",
+    "english": "CEO, the president"
+  },
+  {
+    "korean": "사전",
+    "english": "dictionary"
+  },
+  {
+    "korean": "사진",
+    "english": "picture, photo"
+  },
+  {
+    "korean": "사진기",
+    "english": "camera"
+  },
+  {
+    "korean": "사촌",
+    "english": "cousin"
+  },
+  {
+    "korean": "사탕",
+    "english": "candy"
+  },
+  {
+    "korean": "사흘",
+    "english": "3 days"
+  },
+  {
+    "korean": "산",
+    "english": "mountain"
+  },
+  {
+    "korean": "산책",
+    "english": "walk"
+  },
+  {
+    "korean": "살",
+    "english": "flesh, ~ year(s) old"
+  },
+  {
+    "korean": "살다",
+    "english": "live"
+  },
+  {
+    "korean": "삼",
+    "english": "3"
+  },
+  {
+    "korean": "삼거리",
+    "english": "intersection, three-way intersection"
+  },
+  {
+    "korean": "삼계탕",
+    "english": "Samgyetang"
+  },
+  {
+    "korean": "삼십",
+    "english": "30"
+  },
+  {
+    "korean": "삼월",
+    "english": "March"
+  },
+  {
+    "korean": "삼촌",
+    "english": "paternal uncle"
+  },
+  {
+    "korean": "상관",
+    "english": "relation"
+  },
+  {
+    "korean": "상자",
+    "english": "box"
+  },
+  {
+    "korean": "상처",
+    "english": "wound, scratch"
+  },
+  {
+    "korean": "상품",
+    "english": "product"
+  },
+  {
+    "korean": "새",
+    "english": "bird, new"
+  },
+  {
+    "korean": "새로",
+    "english": "newly"
+  },
+  {
+    "korean": "새벽",
+    "english": "dawn, late at night, early morning"
+  },
+  {
+    "korean": "새우",
+    "english": "shrimp"
+  },
+  {
+    "korean": "색",
+    "english": "color"
+  },
+  {
+    "korean": "색깔",
+    "english": "color"
+  },
+  {
+    "korean": "샌드위치",
+    "english": "sandwich"
+  },
+  {
+    "korean": "생각",
+    "english": "thinking, thought"
+  },
+  {
+    "korean": "생각되다",
+    "english": "be considered, it seems~"
+  },
+  {
+    "korean": "생각하다",
+    "english": "think"
+  },
+  {
+    "korean": "생기다",
+    "english": "form, arise"
+  },
+  {
+    "korean": "생선",
+    "english": "fish"
+  },
+  {
+    "korean": "생신",
+    "english": "birthday  (honorific form)"
+  },
+  {
+    "korean": "생일",
+    "english": "birthday"
+  },
+  {
+    "korean": "생활",
+    "english": "life"
+  },
+  {
+    "korean": "샤워하다",
+    "english": "take a shower"
+  },
+  {
+    "korean": "샴푸",
+    "english": "shampoo"
+  },
+  {
+    "korean": "서다",
+    "english": "stand"
+  },
+  {
+    "korean": "서로",
+    "english": "each other, both"
+  },
+  {
+    "korean": "서류",
+    "english": "document"
+  },
+  {
+    "korean": "서른",
+    "english": "30"
+  },
+  {
+    "korean": "서비스",
+    "english": "service"
+  },
+  {
+    "korean": "서양",
+    "english": "western, west"
+  },
+  {
+    "korean": "서울",
+    "english": "Seoul"
+  },
+  {
+    "korean": "서울역",
+    "english": "Seoul station"
+  },
+  {
+    "korean": "서점",
+    "english": "bookstore"
+  },
+  {
+    "korean": "서쪽",
+    "english": "west, western"
+  },
+  {
+    "korean": "선물",
+    "english": "gift, present"
+  },
+  {
+    "korean": "선배",
+    "english": "elder, senior"
+  },
+  {
+    "korean": "선생님",
+    "english": "teacher"
+  },
+  {
+    "korean": "선수",
+    "english": "player"
+  },
+  {
+    "korean": "선택하다",
+    "english": "choose, select"
+  },
+  {
+    "korean": "선풍기",
+    "english": "fan"
+  },
+  {
+    "korean": "설거지",
+    "english": "washing dishes, dish-washing"
+  },
+  {
+    "korean": "설날",
+    "english": "Lunar New Year"
+  },
+  {
+    "korean": "설렁탕",
+    "english": "Seolleongtang"
+  },
+  {
+    "korean": "설명",
+    "english": "explanation, description"
+  },
+  {
+    "korean": "설명하다",
+    "english": "explain"
+  },
+  {
+    "korean": "설악산",
+    "english": "Mt. Seorak"
+  },
+  {
+    "korean": "설탕",
+    "english": "sugar"
+  },
+  {
+    "korean": "섬",
+    "english": "island"
+  },
+  {
+    "korean": "성",
+    "english": "castle, last name"
+  },
+  {
+    "korean": "성격",
+    "english": "personality"
+  },
+  {
+    "korean": "성함",
+    "english": "name"
+  },
+  {
+    "korean": "세계",
+    "english": "world"
+  },
+  {
+    "korean": "세수하다",
+    "english": "wash"
+  },
+  {
+    "korean": "세우다",
+    "english": "set up, formulate"
+  },
+  {
+    "korean": "세일하다",
+    "english": "have a sale"
+  },
+  {
+    "korean": "세탁기",
+    "english": "washing machine"
+  },
+  {
+    "korean": "세탁소",
+    "english": "dry cleaners, laundromat"
+  },
+  {
+    "korean": "센터",
+    "english": "center"
+  },
+  {
+    "korean": "센티미터",
+    "english": "centimeter"
+  },
+  {
+    "korean": "셋",
+    "english": "3"
+  },
+  {
+    "korean": "셋째",
+    "english": "third"
+  },
+  {
+    "korean": "소",
+    "english": "small, cow"
+  },
+  {
+    "korean": "소개",
+    "english": "introduction"
+  },
+  {
+    "korean": "소개하다",
+    "english": "introduce"
+  },
+  {
+    "korean": "소고기",
+    "english": "beef"
+  },
+  {
+    "korean": "소금",
+    "english": "salt"
+  },
+  {
+    "korean": "소리",
+    "english": "sound, voice"
+  },
+  {
+    "korean": "소설",
+    "english": "novel"
+  },
+  {
+    "korean": "소설가",
+    "english": "novelist"
+  },
+  {
+    "korean": "소식",
+    "english": "news"
+  },
+  {
+    "korean": "소파",
+    "english": "sofa"
+  },
+  {
+    "korean": "소포",
+    "english": "parcel"
+  },
+  {
+    "korean": "소풍",
+    "english": "picnic, trip"
+  },
+  {
+    "korean": "소화제",
+    "english": "peptic, digestive"
+  },
+  {
+    "korean": "속",
+    "english": "inside"
+  },
+  {
+    "korean": "손",
+    "english": "hand"
+  },
+  {
+    "korean": "손가락",
+    "english": "finger"
+  },
+  {
+    "korean": "손님",
+    "english": "customer"
+  },
+  {
+    "korean": "손수건",
+    "english": "handkerchief"
+  },
+  {
+    "korean": "송이",
+    "english": "bunch, flower, cluster"
+  },
+  {
+    "korean": "쇼핑",
+    "english": "shopping"
+  },
+  {
+    "korean": "수건",
+    "english": "towel, washcloth"
+  },
+  {
+    "korean": "수도",
+    "english": "capital, water supply"
+  },
+  {
+    "korean": "수돗물",
+    "english": "tap water"
+  },
+  {
+    "korean": "수박",
+    "english": "watermelon"
+  },
+  {
+    "korean": "수술하다",
+    "english": "operate on for"
+  },
+  {
+    "korean": "수업",
+    "english": "class, lesson"
+  },
+  {
+    "korean": "수영",
+    "english": "swimming"
+  },
+  {
+    "korean": "수영복",
+    "english": "swimsuit"
+  },
+  {
+    "korean": "수영장",
+    "english": "swimming pool"
+  },
+  {
+    "korean": "수요일",
+    "english": "Wednesday"
+  },
+  {
+    "korean": "수저",
+    "english": "chopsticks and a spoon"
+  },
+  {
+    "korean": "수첩",
+    "english": "note, notebook"
+  },
+  {
+    "korean": "수학",
+    "english": "mathematics"
+  },
+  {
+    "korean": "숙제",
+    "english": "homework"
+  },
+  {
+    "korean": "순서",
+    "english": "order, turn"
+  },
+  {
+    "korean": "숟가락",
+    "english": "spoon"
+  },
+  {
+    "korean": "술",
+    "english": "alcohol, liquor"
+  },
+  {
+    "korean": "쉬다",
+    "english": "rest"
+  },
+  {
+    "korean": "쉰",
+    "english": "50"
+  },
+  {
+    "korean": "쉽다",
+    "english": "easy"
+  },
+  {
+    "korean": "슈퍼마켓",
+    "english": "supermarket"
+  },
+  {
+    "korean": "스물",
+    "english": "20"
+  },
+  {
+    "korean": "스웨터",
+    "english": "sweater"
+  },
+  {
+    "korean": "스케이트",
+    "english": "skate"
+  },
+  {
+    "korean": "스키",
+    "english": "ski, skiing"
+  },
+  {
+    "korean": "스키장",
+    "english": "ski resort"
+  },
+  {
+    "korean": "스타",
+    "english": "star"
+  },
+  {
+    "korean": "스타킹",
+    "english": "stockings"
+  },
+  {
+    "korean": "스트레스",
+    "english": "stress"
+  },
+  {
+    "korean": "스페인어",
+    "english": "Spanish"
+  },
+  {
+    "korean": "스포츠",
+    "english": "sport"
+  },
+  {
+    "korean": "슬퍼하다",
+    "english": "sorrow, mourn"
+  },
+  {
+    "korean": "슬프다",
+    "english": "sad"
+  },
+  {
+    "korean": "습관",
+    "english": "habit"
+  },
+  {
+    "korean": "시",
+    "english": "city, time"
+  },
+  {
+    "korean": "시간",
+    "english": "time"
+  },
+  {
+    "korean": "시간표",
+    "english": "schedule, timetable"
+  },
+  {
+    "korean": "시계",
+    "english": "clock"
+  },
+  {
+    "korean": "시골",
+    "english": "countryside"
+  },
+  {
+    "korean": "시끄럽다",
+    "english": "noisy"
+  },
+  {
+    "korean": "시내",
+    "english": "downtown, city, stream"
+  },
+  {
+    "korean": "시다",
+    "english": "sour"
+  },
+  {
+    "korean": "시디",
+    "english": "CD"
+  },
+  {
+    "korean": "시민",
+    "english": "citizen"
+  },
+  {
+    "korean": "시설",
+    "english": "facility"
+  },
+  {
+    "korean": "시외",
+    "english": "suburbs"
+  },
+  {
+    "korean": "시원하다",
+    "english": "cool, refresh"
+  },
+  {
+    "korean": "시월",
+    "english": "October"
+  },
+  {
+    "korean": "시작",
+    "english": "start"
+  },
+  {
+    "korean": "시작되다",
+    "english": "begin"
+  },
+  {
+    "korean": "시작하다",
+    "english": "start, begin"
+  },
+  {
+    "korean": "시장",
+    "english": "market"
+  },
+  {
+    "korean": "시청",
+    "english": "city hall"
+  },
+  {
+    "korean": "시키다",
+    "english": "make someone do, order"
+  },
+  {
+    "korean": "시험",
+    "english": "exam, test"
+  },
+  {
+    "korean": "식당",
+    "english": "restaurant, cafeteria"
+  },
+  {
+    "korean": "식사",
+    "english": "meal"
+  },
+  {
+    "korean": "식탁",
+    "english": "table"
+  },
+  {
+    "korean": "신",
+    "english": "god, new"
+  },
+  {
+    "korean": "신다",
+    "english": "put on, wear"
+  },
+  {
+    "korean": "신문",
+    "english": "newspaper"
+  },
+  {
+    "korean": "신발",
+    "english": "shoes, footwear"
+  },
+  {
+    "korean": "신청서",
+    "english": "application forms"
+  },
+  {
+    "korean": "신청하다",
+    "english": "put in for, apply for"
+  },
+  {
+    "korean": "실례",
+    "english": "excuse"
+  },
+  {
+    "korean": "실례하다",
+    "english": "be excused"
+  },
+  {
+    "korean": "실수",
+    "english": "mistake, failure"
+  },
+  {
+    "korean": "싫다",
+    "english": "hate"
+  },
+  {
+    "korean": "싫어하다",
+    "english": "dislike, hate"
+  },
+  {
+    "korean": "심하다",
+    "english": "severe, terrible"
+  },
+  {
+    "korean": "십",
+    "english": "10"
+  },
+  {
+    "korean": "십이월",
+    "english": "December"
+  },
+  {
+    "korean": "십일월",
+    "english": "November"
+  },
+  {
+    "korean": "싱겁다",
+    "english": "not salty"
+  },
+  {
+    "korean": "싶다",
+    "english": "want"
+  }
+]

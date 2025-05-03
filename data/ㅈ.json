@@ -1,0 +1,698 @@
+[
+  {
+    "korean": "자",
+    "english": "character, Here we go."
+  },
+  {
+    "korean": "자기",
+    "english": "myself, own"
+  },
+  {
+    "korean": "자다",
+    "english": "sleep"
+  },
+  {
+    "korean": "자동차",
+    "english": "car, automobile"
+  },
+  {
+    "korean": "자동차회사",
+    "english": "car company"
+  },
+  {
+    "korean": "자료",
+    "english": "material, document"
+  },
+  {
+    "korean": "자르다",
+    "english": "cut"
+  },
+  {
+    "korean": "자리",
+    "english": "seat, location"
+  },
+  {
+    "korean": "자신",
+    "english": "myself, own"
+  },
+  {
+    "korean": "자연",
+    "english": "nature"
+  },
+  {
+    "korean": "자유",
+    "english": "freedom"
+  },
+  {
+    "korean": "자장면",
+    "english": "Jajangmyeon"
+  },
+  {
+    "korean": "자전거",
+    "english": "bicycle"
+  },
+  {
+    "korean": "자주",
+    "english": "often"
+  },
+  {
+    "korean": "작년",
+    "english": "last year"
+  },
+  {
+    "korean": "작다",
+    "english": "small"
+  },
+  {
+    "korean": "작은아버지",
+    "english": "uncle"
+  },
+  {
+    "korean": "작은어머니",
+    "english": "aunt"
+  },
+  {
+    "korean": "잔",
+    "english": "glass, ~ cup(s)"
+  },
+  {
+    "korean": "잔치",
+    "english": "party, feast"
+  },
+  {
+    "korean": "잘",
+    "english": "well"
+  },
+  {
+    "korean": "잘못",
+    "english": "mistake"
+  },
+  {
+    "korean": "잘생기다",
+    "english": "handsome"
+  },
+  {
+    "korean": "잘하다",
+    "english": "do well, good at"
+  },
+  {
+    "korean": "잠",
+    "english": "slumbers, sleep"
+  },
+  {
+    "korean": "잠깐",
+    "english": "for a while, a little"
+  },
+  {
+    "korean": "잠시",
+    "english": "for a bit, for a while, a little"
+  },
+  {
+    "korean": "잠자다",
+    "english": "sleep, go to bed"
+  },
+  {
+    "korean": "잡다",
+    "english": "catch, grab, hold"
+  },
+  {
+    "korean": "잡수시다",
+    "english": "eat (honorific form)"
+  },
+  {
+    "korean": "잡지",
+    "english": "magazine"
+  },
+  {
+    "korean": "장",
+    "english": "~ chapter(s), ~ sheet(s)"
+  },
+  {
+    "korean": "장갑",
+    "english": "gloves"
+  },
+  {
+    "korean": "장마",
+    "english": "rainy season"
+  },
+  {
+    "korean": "장마철",
+    "english": "rainy season"
+  },
+  {
+    "korean": "장미",
+    "english": "rose"
+  },
+  {
+    "korean": "장소",
+    "english": "place"
+  },
+  {
+    "korean": "장점",
+    "english": "advantage"
+  },
+  {
+    "korean": "재료",
+    "english": "material"
+  },
+  {
+    "korean": "재미없다",
+    "english": "not funny, uninteresting"
+  },
+  {
+    "korean": "재미있다",
+    "english": "interesting"
+  },
+  {
+    "korean": "재킷",
+    "english": "jacket"
+  },
+  {
+    "korean": "저",
+    "english": "that"
+  },
+  {
+    "korean": "저거",
+    "english": "that"
+  },
+  {
+    "korean": "저것",
+    "english": "that"
+  },
+  {
+    "korean": "저곳",
+    "english": "over there"
+  },
+  {
+    "korean": "저기",
+    "english": "there, over there"
+  },
+  {
+    "korean": "저녁",
+    "english": "dinner, evening, night"
+  },
+  {
+    "korean": "저녁식사",
+    "english": "dinner"
+  },
+  {
+    "korean": "저렇게",
+    "english": "like that, in that way"
+  },
+  {
+    "korean": "저분",
+    "english": "that person"
+  },
+  {
+    "korean": "저쪽",
+    "english": "there, over there"
+  },
+  {
+    "korean": "저희",
+    "english": "we"
+  },
+  {
+    "korean": "적",
+    "english": "enemy"
+  },
+  {
+    "korean": "적다",
+    "english": "be few, write down"
+  },
+  {
+    "korean": "전",
+    "english": "all, before"
+  },
+  {
+    "korean": "전공",
+    "english": "major"
+  },
+  {
+    "korean": "전기자동차",
+    "english": "electric car"
+  },
+  {
+    "korean": "전자사전",
+    "english": "electronic dictionary"
+  },
+  {
+    "korean": "전하다",
+    "english": "tell"
+  },
+  {
+    "korean": "전혀",
+    "english": "not at all"
+  },
+  {
+    "korean": "전화",
+    "english": "telephone"
+  },
+  {
+    "korean": "전화기",
+    "english": "telephone"
+  },
+  {
+    "korean": "전화번호",
+    "english": "phone number"
+  },
+  {
+    "korean": "절",
+    "english": "~ section(s), temple"
+  },
+  {
+    "korean": "절대",
+    "english": "never, absolutely"
+  },
+  {
+    "korean": "젊다",
+    "english": "young"
+  },
+  {
+    "korean": "점",
+    "english": "point"
+  },
+  {
+    "korean": "점수",
+    "english": "score, point"
+  },
+  {
+    "korean": "점심",
+    "english": "lunch"
+  },
+  {
+    "korean": "점심시간",
+    "english": "lunchtime"
+  },
+  {
+    "korean": "점심식사",
+    "english": "lunch"
+  },
+  {
+    "korean": "점원",
+    "english": "clerk"
+  },
+  {
+    "korean": "점퍼",
+    "english": "jacket"
+  },
+  {
+    "korean": "젓가락",
+    "english": "chopsticks"
+  },
+  {
+    "korean": "정거장",
+    "english": "station, depot"
+  },
+  {
+    "korean": "정도",
+    "english": "degree"
+  },
+  {
+    "korean": "정류장",
+    "english": "station, bus stop"
+  },
+  {
+    "korean": "정리하다",
+    "english": "straighten out, organize"
+  },
+  {
+    "korean": "정말",
+    "english": "really, truly"
+  },
+  {
+    "korean": "정문",
+    "english": "front door, main gate"
+  },
+  {
+    "korean": "정보",
+    "english": "information"
+  },
+  {
+    "korean": "정하다",
+    "english": "choose, establish"
+  },
+  {
+    "korean": "제가",
+    "english": "I"
+  },
+  {
+    "korean": "제목",
+    "english": "title"
+  },
+  {
+    "korean": "제일",
+    "english": "most"
+  },
+  {
+    "korean": "제주도",
+    "english": "Jeju Island"
+  },
+  {
+    "korean": "조금",
+    "english": "a little"
+  },
+  {
+    "korean": "조사하다",
+    "english": "investigate"
+  },
+  {
+    "korean": "조선",
+    "english": "shipbuilding, Korea"
+  },
+  {
+    "korean": "조선말",
+    "english": "Korean language"
+  },
+  {
+    "korean": "조선어",
+    "english": "Korean language"
+  },
+  {
+    "korean": "조심하다",
+    "english": "be careful, warn"
+  },
+  {
+    "korean": "조용하다",
+    "english": "silent, quiet"
+  },
+  {
+    "korean": "조용히",
+    "english": "quietly"
+  },
+  {
+    "korean": "조카",
+    "english": "nephew"
+  },
+  {
+    "korean": "졸업",
+    "english": "graduation"
+  },
+  {
+    "korean": "졸업하다",
+    "english": "graduate"
+  },
+  {
+    "korean": "좀",
+    "english": "a little"
+  },
+  {
+    "korean": "좀더",
+    "english": "a little more"
+  },
+  {
+    "korean": "좁다",
+    "english": "narrow"
+  },
+  {
+    "korean": "종로",
+    "english": "Jong-ro"
+  },
+  {
+    "korean": "종류",
+    "english": "kind, type"
+  },
+  {
+    "korean": "종업원",
+    "english": "employee"
+  },
+  {
+    "korean": "종이",
+    "english": "paper"
+  },
+  {
+    "korean": "종일",
+    "english": "all day"
+  },
+  {
+    "korean": "좋다",
+    "english": "good"
+  },
+  {
+    "korean": "좋아하다",
+    "english": "like"
+  },
+  {
+    "korean": "죄송하다",
+    "english": "sorry"
+  },
+  {
+    "korean": "주",
+    "english": "week"
+  },
+  {
+    "korean": "주다",
+    "english": "give"
+  },
+  {
+    "korean": "주로",
+    "english": "mainly"
+  },
+  {
+    "korean": "주말",
+    "english": "weekend"
+  },
+  {
+    "korean": "주머니",
+    "english": "pocket, pouch"
+  },
+  {
+    "korean": "주무시다",
+    "english": "sleep, rest"
+  },
+  {
+    "korean": "주문하다",
+    "english": "order"
+  },
+  {
+    "korean": "주변",
+    "english": "around"
+  },
+  {
+    "korean": "주부",
+    "english": "housewife"
+  },
+  {
+    "korean": "주사",
+    "english": "injection"
+  },
+  {
+    "korean": "주소",
+    "english": "address"
+  },
+  {
+    "korean": "주스",
+    "english": "juice"
+  },
+  {
+    "korean": "주위",
+    "english": "around"
+  },
+  {
+    "korean": "주인",
+    "english": "owner"
+  },
+  {
+    "korean": "주차장",
+    "english": "parking lot"
+  },
+  {
+    "korean": "주차하다",
+    "english": "park"
+  },
+  {
+    "korean": "주황색",
+    "english": "orange color"
+  },
+  {
+    "korean": "죽",
+    "english": "bamboo, porridge"
+  },
+  {
+    "korean": "죽다",
+    "english": "die"
+  },
+  {
+    "korean": "준비",
+    "english": "preparation"
+  },
+  {
+    "korean": "준비하다",
+    "english": "prepare"
+  },
+  {
+    "korean": "줄",
+    "english": "line, column, string"
+  },
+  {
+    "korean": "줄다",
+    "english": "shrink, decrease"
+  },
+  {
+    "korean": "중",
+    "english": "medium, during"
+  },
+  {
+    "korean": "중국",
+    "english": "China"
+  },
+  {
+    "korean": "중국어",
+    "english": "Chinese"
+  },
+  {
+    "korean": "중국집",
+    "english": "Chinese restaurant"
+  },
+  {
+    "korean": "중식",
+    "english": "Chinese cuisine"
+  },
+  {
+    "korean": "중심",
+    "english": "center"
+  },
+  {
+    "korean": "중요",
+    "english": "importance"
+  },
+  {
+    "korean": "중요하다",
+    "english": "important"
+  },
+  {
+    "korean": "중학교",
+    "english": "middle school, Junior high school"
+  },
+  {
+    "korean": "중학생",
+    "english": "middle school student"
+  },
+  {
+    "korean": "즐거워하다",
+    "english": "have fun"
+  },
+  {
+    "korean": "즐겁다",
+    "english": "fun, be pleasant"
+  },
+  {
+    "korean": "즐기다",
+    "english": "enjoy, have fun"
+  },
+  {
+    "korean": "증세",
+    "english": "symptom, medical condition"
+  },
+  {
+    "korean": "지각",
+    "english": "tardy, being late"
+  },
+  {
+    "korean": "지갑",
+    "english": "wallet"
+  },
+  {
+    "korean": "지금",
+    "english": "now"
+  },
+  {
+    "korean": "지나다",
+    "english": "pass by"
+  },
+  {
+    "korean": "지난달",
+    "english": "last month"
+  },
+  {
+    "korean": "지난번",
+    "english": "last time"
+  },
+  {
+    "korean": "지난주",
+    "english": "last week"
+  },
+  {
+    "korean": "지내다",
+    "english": "stay, spend, live"
+  },
+  {
+    "korean": "지다",
+    "english": "lose"
+  },
+  {
+    "korean": "지도",
+    "english": "map"
+  },
+  {
+    "korean": "지방",
+    "english": "fat, region"
+  },
+  {
+    "korean": "지우개",
+    "english": "eraser"
+  },
+  {
+    "korean": "지키다",
+    "english": "protect"
+  },
+  {
+    "korean": "지하",
+    "english": "underground"
+  },
+  {
+    "korean": "지하도",
+    "english": "underpass"
+  },
+  {
+    "korean": "지하철",
+    "english": "subway"
+  },
+  {
+    "korean": "지하철역",
+    "english": "subway station"
+  },
+  {
+    "korean": "직업",
+    "english": "job, profession"
+  },
+  {
+    "korean": "직원",
+    "english": "employee, staff"
+  },
+  {
+    "korean": "직장",
+    "english": "workplace"
+  },
+  {
+    "korean": "직접",
+    "english": "directly, direct"
+  },
+  {
+    "korean": "진달래",
+    "english": "azalea"
+  },
+  {
+    "korean": "질",
+    "english": "quality"
+  },
+  {
+    "korean": "질문",
+    "english": "question"
+  },
+  {
+    "korean": "질문하다",
+    "english": "ask a question"
+  },
+  {
+    "korean": "짐",
+    "english": "load, baggage"
+  },
+  {
+    "korean": "집",
+    "english": "house, shop"
+  },
+  {
+    "korean": "짓다",
+    "english": "build, create"
+  }
+]

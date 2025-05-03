@@ -1,0 +1,970 @@
+[
+  {
+    "korean": "가게",
+    "english": "store, shop"
+  },
+  {
+    "korean": "가격",
+    "english": "price"
+  },
+  {
+    "korean": "가구",
+    "english": "furniture"
+  },
+  {
+    "korean": "가깝다",
+    "english": "close"
+  },
+  {
+    "korean": "가끔",
+    "english": "sometimes"
+  },
+  {
+    "korean": "가다",
+    "english": "go"
+  },
+  {
+    "korean": "가르치다",
+    "english": "teach"
+  },
+  {
+    "korean": "가방",
+    "english": "bag"
+  },
+  {
+    "korean": "가볍다",
+    "english": "light"
+  },
+  {
+    "korean": "가수",
+    "english": "singer"
+  },
+  {
+    "korean": "가슴",
+    "english": "chest, breast"
+  },
+  {
+    "korean": "가요",
+    "english": "song"
+  },
+  {
+    "korean": "가운데",
+    "english": "middle"
+  },
+  {
+    "korean": "가위",
+    "english": "scissors"
+  },
+  {
+    "korean": "가을",
+    "english": "autumn, fall"
+  },
+  {
+    "korean": "가장",
+    "english": "most"
+  },
+  {
+    "korean": "가져가다",
+    "english": "take away"
+  },
+  {
+    "korean": "가져오다",
+    "english": "bring"
+  },
+  {
+    "korean": "가족",
+    "english": "family"
+  },
+  {
+    "korean": "가지",
+    "english": "branch"
+  },
+  {
+    "korean": "가지다",
+    "english": "have"
+  },
+  {
+    "korean": "각",
+    "english": "each"
+  },
+  {
+    "korean": "간",
+    "english": "while"
+  },
+  {
+    "korean": "간단하다",
+    "english": "simple, easy"
+  },
+  {
+    "korean": "간단히",
+    "english": "simply"
+  },
+  {
+    "korean": "간식",
+    "english": "snack"
+  },
+  {
+    "korean": "간장",
+    "english": "soy sauce"
+  },
+  {
+    "korean": "간호사",
+    "english": "nurse"
+  },
+  {
+    "korean": "갈비",
+    "english": "Galvi, spareribs"
+  },
+  {
+    "korean": "갈비탕",
+    "english": "Galbitang, spareribs soup"
+  },
+  {
+    "korean": "갈색",
+    "english": "brown"
+  },
+  {
+    "korean": "갈아타다",
+    "english": "transfer"
+  },
+  {
+    "korean": "감",
+    "english": "persimmon"
+  },
+  {
+    "korean": "감기",
+    "english": "cold"
+  },
+  {
+    "korean": "감기약",
+    "english": "cold medicine"
+  },
+  {
+    "korean": "감다",
+    "english": "close ~ (eyes)"
+  },
+  {
+    "korean": "감동",
+    "english": "sensation"
+  },
+  {
+    "korean": "감동하다",
+    "english": "be impressed"
+  },
+  {
+    "korean": "감사",
+    "english": "thank"
+  },
+  {
+    "korean": "감사드립니다",
+    "english": "thank you"
+  },
+  {
+    "korean": "감사하다",
+    "english": "thank, appreciate"
+  },
+  {
+    "korean": "감사합니다",
+    "english": "thank you"
+  },
+  {
+    "korean": "감자",
+    "english": "potato"
+  },
+  {
+    "korean": "감자탕",
+    "english": "Gamjatang, potato soup"
+  },
+  {
+    "korean": "갑자기",
+    "english": "suddenly"
+  },
+  {
+    "korean": "값",
+    "english": "price"
+  },
+  {
+    "korean": "강",
+    "english": "river"
+  },
+  {
+    "korean": "강아지",
+    "english": "puppy"
+  },
+  {
+    "korean": "강좌",
+    "english": "lecture"
+  },
+  {
+    "korean": "갖다",
+    "english": "have"
+  },
+  {
+    "korean": "같다",
+    "english": "same"
+  },
+  {
+    "korean": "같이",
+    "english": "together"
+  },
+  {
+    "korean": "개",
+    "english": "dog, ~ piece(s)"
+  },
+  {
+    "korean": "개나리",
+    "english": "forsythia"
+  },
+  {
+    "korean": "개인",
+    "english": "individual"
+  },
+  {
+    "korean": "거기",
+    "english": "there"
+  },
+  {
+    "korean": "거리",
+    "english": "street"
+  },
+  {
+    "korean": "거실",
+    "english": "living room"
+  },
+  {
+    "korean": "거울",
+    "english": "mirror"
+  },
+  {
+    "korean": "거의",
+    "english": "almost, nearly"
+  },
+  {
+    "korean": "거짓말",
+    "english": "lie"
+  },
+  {
+    "korean": "걱정",
+    "english": "anxiety, concern"
+  },
+  {
+    "korean": "걱정하다",
+    "english": "worry"
+  },
+  {
+    "korean": "건강",
+    "english": "health"
+  },
+  {
+    "korean": "건강하다",
+    "english": "be healthy"
+  },
+  {
+    "korean": "건너가다",
+    "english": "cross (a road)"
+  },
+  {
+    "korean": "건너다",
+    "english": "cross over"
+  },
+  {
+    "korean": "건너편",
+    "english": "other side, opposite side"
+  },
+  {
+    "korean": "건물",
+    "english": "building"
+  },
+  {
+    "korean": "건배",
+    "english": "cheers, toast"
+  },
+  {
+    "korean": "걷다",
+    "english": "walk"
+  },
+  {
+    "korean": "걸다",
+    "english": "bet, call"
+  },
+  {
+    "korean": "걸리다",
+    "english": "get caught, take (time)"
+  },
+  {
+    "korean": "걸어가다",
+    "english": "walk (go)"
+  },
+  {
+    "korean": "걸어오다",
+    "english": "walk (come)"
+  },
+  {
+    "korean": "검은색",
+    "english": "black"
+  },
+  {
+    "korean": "것",
+    "english": "that, thing, it"
+  },
+  {
+    "korean": "게임",
+    "english": "game"
+  },
+  {
+    "korean": "겨울",
+    "english": "winter"
+  },
+  {
+    "korean": "겨울방학",
+    "english": "winter vacation"
+  },
+  {
+    "korean": "결과",
+    "english": "result"
+  },
+  {
+    "korean": "결정",
+    "english": "decision"
+  },
+  {
+    "korean": "결정하다",
+    "english": "decide"
+  },
+  {
+    "korean": "결혼",
+    "english": "marriage"
+  },
+  {
+    "korean": "결혼식",
+    "english": "wedding ceremony"
+  },
+  {
+    "korean": "결혼하다",
+    "english": "get married"
+  },
+  {
+    "korean": "경기",
+    "english": "competition, game"
+  },
+  {
+    "korean": "경기장",
+    "english": "stadium, arena"
+  },
+  {
+    "korean": "경복궁",
+    "english": "Gyeongbokgung"
+  },
+  {
+    "korean": "경주",
+    "english": "Gyeongju"
+  },
+  {
+    "korean": "경찰",
+    "english": "police"
+  },
+  {
+    "korean": "경찰관",
+    "english": "police officer"
+  },
+  {
+    "korean": "경찰서",
+    "english": "police office"
+  },
+  {
+    "korean": "경치",
+    "english": "view, landscape"
+  },
+  {
+    "korean": "경험",
+    "english": "experience"
+  },
+  {
+    "korean": "계단",
+    "english": "stairs"
+  },
+  {
+    "korean": "계란",
+    "english": "egg"
+  },
+  {
+    "korean": "계산하다",
+    "english": "calculate"
+  },
+  {
+    "korean": "계속",
+    "english": "continue"
+  },
+  {
+    "korean": "계시다",
+    "english": "be, exist (honorific form)"
+  },
+  {
+    "korean": "계절",
+    "english": "season"
+  },
+  {
+    "korean": "계획",
+    "english": "plan"
+  },
+  {
+    "korean": "고기",
+    "english": "meat"
+  },
+  {
+    "korean": "고등학교",
+    "english": "high school"
+  },
+  {
+    "korean": "고등학생",
+    "english": "high school student"
+  },
+  {
+    "korean": "고르다",
+    "english": "choose"
+  },
+  {
+    "korean": "고마웠습니다",
+    "english": "Thank you (past tense)"
+  },
+  {
+    "korean": "고맙다",
+    "english": "thank"
+  },
+  {
+    "korean": "고맙습니다",
+    "english": "Thank you"
+  },
+  {
+    "korean": "고모",
+    "english": "paternal aunt"
+  },
+  {
+    "korean": "고모부",
+    "english": "paternal uncle"
+  },
+  {
+    "korean": "고속버스",
+    "english": "express bus"
+  },
+  {
+    "korean": "고양이",
+    "english": "cat"
+  },
+  {
+    "korean": "고장",
+    "english": "broken, malfunction"
+  },
+  {
+    "korean": "고추",
+    "english": "red pepper"
+  },
+  {
+    "korean": "고추장",
+    "english": "Kochujang, red pepper paste"
+  },
+  {
+    "korean": "고치다",
+    "english": "fix"
+  },
+  {
+    "korean": "고프다",
+    "english": "hungry"
+  },
+  {
+    "korean": "고향",
+    "english": "hometown"
+  },
+  {
+    "korean": "곧",
+    "english": "soon"
+  },
+  {
+    "korean": "골목",
+    "english": "alley"
+  },
+  {
+    "korean": "골프",
+    "english": "golf"
+  },
+  {
+    "korean": "곱다",
+    "english": "beautiful"
+  },
+  {
+    "korean": "곳",
+    "english": "place"
+  },
+  {
+    "korean": "공",
+    "english": "ball"
+  },
+  {
+    "korean": "공간",
+    "english": "space"
+  },
+  {
+    "korean": "공기",
+    "english": "air"
+  },
+  {
+    "korean": "공무원",
+    "english": "public official"
+  },
+  {
+    "korean": "공부",
+    "english": "study"
+  },
+  {
+    "korean": "공부하다",
+    "english": "study"
+  },
+  {
+    "korean": "공연",
+    "english": "show, public performance"
+  },
+  {
+    "korean": "공원",
+    "english": "park"
+  },
+  {
+    "korean": "공중전화",
+    "english": "payphone, public phone"
+  },
+  {
+    "korean": "공짜",
+    "english": "free"
+  },
+  {
+    "korean": "공책",
+    "english": "notebook, note"
+  },
+  {
+    "korean": "공항",
+    "english": "airport"
+  },
+  {
+    "korean": "공휴일",
+    "english": "public holiday"
+  },
+  {
+    "korean": "과",
+    "english": "division"
+  },
+  {
+    "korean": "과거",
+    "english": "past"
+  },
+  {
+    "korean": "과일",
+    "english": "fruit"
+  },
+  {
+    "korean": "과자",
+    "english": "snack"
+  },
+  {
+    "korean": "과학",
+    "english": "science"
+  },
+  {
+    "korean": "관계",
+    "english": "relation"
+  },
+  {
+    "korean": "관광하다",
+    "english": "travel, sightsee"
+  },
+  {
+    "korean": "관심",
+    "english": "attention, interest"
+  },
+  {
+    "korean": "광고",
+    "english": "advertisement"
+  },
+  {
+    "korean": "괜찮다",
+    "english": "be okay"
+  },
+  {
+    "korean": "괜찮습니다",
+    "english": "It's fine."
+  },
+  {
+    "korean": "교과서",
+    "english": "textbook"
+  },
+  {
+    "korean": "교수",
+    "english": "professor"
+  },
+  {
+    "korean": "교실",
+    "english": "classroom"
+  },
+  {
+    "korean": "교체",
+    "english": "substitute, change"
+  },
+  {
+    "korean": "교통",
+    "english": "traffic"
+  },
+  {
+    "korean": "교통사고",
+    "english": "traffic accident"
+  },
+  {
+    "korean": "교회",
+    "english": "church"
+  },
+  {
+    "korean": "구",
+    "english": "9"
+  },
+  {
+    "korean": "구경하다",
+    "english": "take a look"
+  },
+  {
+    "korean": "구두",
+    "english": "shoes"
+  },
+  {
+    "korean": "구름",
+    "english": "cloud"
+  },
+  {
+    "korean": "구십",
+    "english": "90"
+  },
+  {
+    "korean": "구월",
+    "english": "September"
+  },
+  {
+    "korean": "구하다",
+    "english": "save, seek, get"
+  },
+  {
+    "korean": "국",
+    "english": "soup"
+  },
+  {
+    "korean": "국내",
+    "english": "domestic"
+  },
+  {
+    "korean": "국립",
+    "english": "nationalestablished, state"
+  },
+  {
+    "korean": "국수",
+    "english": "noodle"
+  },
+  {
+    "korean": "국어",
+    "english": "Korean language"
+  },
+  {
+    "korean": "국적",
+    "english": "nationality, country of citizenship"
+  },
+  {
+    "korean": "국제",
+    "english": "international"
+  },
+  {
+    "korean": "군인",
+    "english": "soldier, military personnel"
+  },
+  {
+    "korean": "굽다",
+    "english": "bake"
+  },
+  {
+    "korean": "권",
+    "english": "~ book(s)"
+  },
+  {
+    "korean": "귀",
+    "english": "ear"
+  },
+  {
+    "korean": "귀엽다",
+    "english": "cute"
+  },
+  {
+    "korean": "규칙",
+    "english": "rule"
+  },
+  {
+    "korean": "귤",
+    "english": "mandarin orange"
+  },
+  {
+    "korean": "그",
+    "english": "it"
+  },
+  {
+    "korean": "그거",
+    "english": "it"
+  },
+  {
+    "korean": "그것",
+    "english": "it"
+  },
+  {
+    "korean": "그곳",
+    "english": "there"
+  },
+  {
+    "korean": "그날",
+    "english": "that day"
+  },
+  {
+    "korean": "그냥",
+    "english": "just, as it is"
+  },
+  {
+    "korean": "그동안",
+    "english": "meantime, meanwhile, up to now"
+  },
+  {
+    "korean": "그들",
+    "english": "them, they"
+  },
+  {
+    "korean": "그때",
+    "english": "then, at that time"
+  },
+  {
+    "korean": "그래",
+    "english": "Yes, Yeah"
+  },
+  {
+    "korean": "그래서",
+    "english": "so, thus"
+  },
+  {
+    "korean": "그램",
+    "english": "gram"
+  },
+  {
+    "korean": "그러나",
+    "english": "but, however"
+  },
+  {
+    "korean": "그러니까",
+    "english": "so, because"
+  },
+  {
+    "korean": "그러면",
+    "english": "then, if so"
+  },
+  {
+    "korean": "그런",
+    "english": "then, such"
+  },
+  {
+    "korean": "그런데",
+    "english": "by the way, however"
+  },
+  {
+    "korean": "그럼",
+    "english": "then"
+  },
+  {
+    "korean": "그렇게",
+    "english": "like that, so"
+  },
+  {
+    "korean": "그렇구나",
+    "english": "well, I see."
+  },
+  {
+    "korean": "그렇다",
+    "english": "Yes, that's it."
+  },
+  {
+    "korean": "그렇습니다",
+    "english": "That's right."
+  },
+  {
+    "korean": "그렇지만",
+    "english": "nevertheless, but"
+  },
+  {
+    "korean": "그릇",
+    "english": "bowl, container, tableware"
+  },
+  {
+    "korean": "그리고",
+    "english": "and"
+  },
+  {
+    "korean": "그리다",
+    "english": "draw"
+  },
+  {
+    "korean": "그림",
+    "english": "drawing, picture"
+  },
+  {
+    "korean": "그만",
+    "english": "stop, finish"
+  },
+  {
+    "korean": "그분",
+    "english": "his, the person"
+  },
+  {
+    "korean": "그저께",
+    "english": "day before yesterday"
+  },
+  {
+    "korean": "그중",
+    "english": "among them"
+  },
+  {
+    "korean": "그쪽",
+    "english": "there, the person"
+  },
+  {
+    "korean": "그치다",
+    "english": "stop, end, cease"
+  },
+  {
+    "korean": "극장",
+    "english": "theater, cinema"
+  },
+  {
+    "korean": "근처",
+    "english": "nearby, neighborhood"
+  },
+  {
+    "korean": "글",
+    "english": "post, sentence, character"
+  },
+  {
+    "korean": "글쎄요",
+    "english": "I do not know., well, I guess ~"
+  },
+  {
+    "korean": "금방",
+    "english": "soon, a little while ago"
+  },
+  {
+    "korean": "금연",
+    "english": "no smoking"
+  },
+  {
+    "korean": "금요일",
+    "english": "Friday"
+  },
+  {
+    "korean": "금주",
+    "english": "abstinence, temperance"
+  },
+  {
+    "korean": "급",
+    "english": "class, grade"
+  },
+  {
+    "korean": "급하다",
+    "english": "hurry, urgent"
+  },
+  {
+    "korean": "기간",
+    "english": "term, period"
+  },
+  {
+    "korean": "기다리다",
+    "english": "wait"
+  },
+  {
+    "korean": "기르다",
+    "english": "cultivate, grow"
+  },
+  {
+    "korean": "기름",
+    "english": "oil, gasoline"
+  },
+  {
+    "korean": "기분",
+    "english": "feeling"
+  },
+  {
+    "korean": "기뻐하다",
+    "english": "glad, delight"
+  },
+  {
+    "korean": "기쁘다",
+    "english": "happy"
+  },
+  {
+    "korean": "기사",
+    "english": "article, driver, engineer"
+  },
+  {
+    "korean": "기숙사",
+    "english": "dormitory"
+  },
+  {
+    "korean": "기억하다",
+    "english": "remember"
+  },
+  {
+    "korean": "기온",
+    "english": "temperature"
+  },
+  {
+    "korean": "기자",
+    "english": "reporter"
+  },
+  {
+    "korean": "기차",
+    "english": "train"
+  },
+  {
+    "korean": "기침",
+    "english": "cough"
+  },
+  {
+    "korean": "기타",
+    "english": "other"
+  },
+  {
+    "korean": "긴장되다",
+    "english": "be nervous"
+  },
+  {
+    "korean": "길",
+    "english": "way, road"
+  },
+  {
+    "korean": "길다",
+    "english": "long"
+  },
+  {
+    "korean": "김",
+    "english": "seaweed"
+  },
+  {
+    "korean": "김밥",
+    "english": "Kimbab"
+  },
+  {
+    "korean": "김치",
+    "english": "Kimchi"
+  },
+  {
+    "korean": "김치찌개",
+    "english": "Kimchi stew"
+  },
+  {
+    "korean": "김포공항",
+    "english": "Gimpo International Airport"
+  }
+]
